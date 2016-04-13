@@ -4,5 +4,5 @@ Reads JSON file (objects w/ parent-child relations) and displays list of options
 
 ## Todos
 - {X} shows how many children each item in the list has
-- { } hide parent list
+- { } when showing next list of children, hide previous list of parents
 - { } show breadcrumbs of path so far
